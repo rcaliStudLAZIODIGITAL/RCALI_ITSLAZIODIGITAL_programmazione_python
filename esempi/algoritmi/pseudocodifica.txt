@@ -1,0 +1,69 @@
+-------------- caffè--------------
+
+INIZIO
+
+acquisisci il caffè in polvere
+acquisisci la moka
+
+ESEGUI:
+smonta la moka
+RIEMPI DI ACQUA LA BASE DELLA MOKA
+
+mentre l'acqua è ancora sotto la valvola
+ESEGUI RIEMPI DI ACQUA LA BASE DELLA MOKA
+
+ESEGUI:
+inserisci il filtro
+riempire il filtro di caffè
+
+mentre il caffè non è ancora a montagnetta
+ESEGUI riempire il filtro di caffè
+
+ESEGUI:
+chiudi la moka
+accendi il fornello
+POSIZIONA LA MOKA SUL FORNELLO
+aspetta
+
+mentre il caffè non è ancora uscito tutto
+ESEGUI aspetta
+
+ESEGUI versa il caffè
+
+FINE
+
+
+-------------- attraversamento pedonale --------------
+
+INIZIO
+
+ESEGUI:
+ INDIVIDUA STRISCE PEDONALI
+ GUARDA A SINISTRA
+ GUARDA A DESTRA
+
+MENTRE passano i veicoli
+ESEGUI:
+ GUARDA A SINISTRA
+ GUARDA A DESTRA
+
+ESEGUI attraversa
+
+FINE
+
+
+-------------- portare a passeggio il cane --------------
+INIZIO
+ESEGUI chiama il cane
+
+ACQUISISCI il guinzaglio
+
+ESEGUI metti il guinzaglio al cane
+
+SE piove 
+ACQUISISCI impermeabile
+ESEGUI metti l'impermeabile al cane
+
+ESEGUI ESCI
+
+FINE
